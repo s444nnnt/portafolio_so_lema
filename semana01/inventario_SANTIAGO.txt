@@ -1,0 +1,50 @@
+﻿===== INVENTARIO DE HARDWARE (Windows) =====
+
+== Equipo, fecha y sistema operativo
+Equipo : SANTIAGO
+Fecha  : 2026-10-09 20:00:08
+SO     : Microsoft Windows 11 Home (version 10.0.26200)
+
+== CPU
+Modelo   : 13th Gen Intel(R) Core(TM) i7-13620H
+Nucleos  : 10
+Hilos    : 16 procesadores logicos
+Frecuencia maxima (MHz): 2400
+Frecuencia actual (MHz): 2400
+
+== Cache
+L1 (L1 Cache): 256 KB
+L1 (L1 Cache): 128 KB
+L1 (L1 Cache): 288 KB
+L1 (L1 Cache): 192 KB
+L2 (L2 Cache): 7680 KB
+L2 (L2 Cache): 2048 KB
+L3 (L3 Cache): 24576 KB
+L3 (L3 Cache): 24576 KB
+
+== Memoria RAM
+Total : 63,7 GB
+
+== Discos (nombre, tipo, tamano)
+
+FriendlyName          MediaType Tamano_GB
+------------          --------- ---------
+NVMe ADATA LEGEND 800 SSD            1863
+
+
+
+
+== EXTRA: interfaces de red y direccion IP
+
+InterfaceAlias               IPAddress      
+--------------               ---------      
+Ethernet 2                   192.168.56.1   
+Local Area Connection* 4     169.254.206.23 
+Local Area Connection* 3     169.254.46.129 
+Ethernet                     169.254.94.61  
+Wi-Fi                        192.168.100.160
+Bluetooth Network Connection 169.254.202.247
+Loopback Pseudo-Interface 1  127.0.0.1      
+
+
+
