@@ -10,7 +10,7 @@
 
   | Semana | Tema | Carpeta |
   |--------|------|---------|
-  | 01 | Arquitectura de computadoras | [semana01/](semana01/) |
+  | 01 | Arquitectura de computadoras | [semana1/](semana1/) |
 
   ## Estructura
 
