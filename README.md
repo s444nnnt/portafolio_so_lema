@@ -11,12 +11,14 @@ Portafolio de scripts de administración y ayudas de memoria de la materia. Cada
 | Semana | Tema | Carpeta |
 |--------|------|---------|
 | 01 | Arquitectura de computadoras | [semana01/](semana01/) |
+| 02 | Modelo de programación, memoria y datos | [semana02/](semana02/) |
+| 03 | Introducción al SO: arranque | [semana03/](semana03/) |
 
 ## Estructura
 
 ```text
 ├── README.md
-└── semana01/
+├── semana01/
     ├── README.md
     ├── comandos.md
     ├── teoria.md
@@ -24,4 +26,6 @@ Portafolio de scripts de administración y ayudas de memoria de la materia. Cada
     ├── repowindows.ps1
     ├── inventario_<equipo-linux>.txt
     └── inventario_<equipo-windows>.txt
+├── semana02/   (memoria.sh, memoria.ps1, matriz.c, comandos.md, README.md)
+└── semana03/   (informe_arranque.sh, informe_arranque.ps1, comandos.md, README.md)
 ```
