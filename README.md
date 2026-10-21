@@ -14,6 +14,8 @@ Portafolio de scripts de administración y ayudas de memoria de la materia. Cada
 | 02 | Modelo de programación, memoria y datos | [semana02/](semana02/) |
 | 03 | Introducción al SO: arranque | [semana03/](semana03/) |
 
+[Formulario de fórmulas (Semanas 1–3)](formulario.md)
+
 ## Estructura
 
 ```text
